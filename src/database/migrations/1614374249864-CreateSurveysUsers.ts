@@ -20,7 +20,7 @@ export class CreateSurveysUsers1614374249864 implements MigrationInterface {
                         type: 'uuid',
                     },
                     {
-                        name: 'valor',
+                        name: 'value',
                         type: 'number',
                         isNullable: true,
                     },
