@@ -1,12 +1,8 @@
-<h1 align="center">Net Promoter Score</h1>
+# Net Promoter Score
 
-<p align="center">
-  <a href="#-language-and-tools">Language and tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project-description">Project description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-setup">Setup</a>
-</p>
-
-<br>
+[Language and tools](#language-and-tools) |
+[Project description](#project-description) |
+[Setup](#setup)
 
 ## Language and tools
 
