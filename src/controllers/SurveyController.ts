@@ -2,7 +2,7 @@ import { Request, Response } from 'express';
 import { getCustomRepository } from 'typeorm';
 import { SurveysRepository } from '../repositories/SurveysRepository';
 
-class SurveryController {
+class SurveyController {
     async create(request: Request, response: Response) {
         const { title, description } = request.body;
 
@@ -27,4 +27,4 @@ class SurveryController {
     }
 }
 
-export { SurveryController };
+export { SurveyController };
